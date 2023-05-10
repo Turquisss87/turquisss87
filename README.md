@@ -34,7 +34,7 @@ Aqui encontraran las cosas que fui aprendiendo y los proyectos con los que traba
 # Mis proyectos en la comunidad
 
 ## Git & GitHub
-![https://github.com/Turquisss87/HelloGit](./git_github_banner.png)
+![https://github.com/Turquisss87/HelloGit](./descarga.png)
 
 
 
