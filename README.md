@@ -21,15 +21,13 @@ Aqui encontraran las cosas que fui aprendiendo y los proyectos con los que traba
 ## Links:
 
 
-[![Twitter]()](https://twitter.com/turquisss87)
-[![Instagram]()](https://instagram.com/turquisss87)
+[![Twitter](https://img.shields.io/badge/Twitter-Turquisss87-9cf)](https://twitter.com/turquisss87)
+[![Instagram](https://img.shields.io/badge/Instagram-Turquisss87-red)](https://instagram.com/turquisss87)
 
-[![Facebook]()](https://facebook.com/turquisss87)
+[![Facebook](https://img.shields.io/badge/Facebook-Turquisss87-orange)](https://facebook.com/turquisss87)
 </br>
-[![Link]()](https://turquisss87.com)
-[![LinkedIn]()](https://www.linkedin.com/in/turquisss87)
-
-[![Web]()](https://turquisss87.com)
+[![Link](https://img.shields.io/badge/Web-Turquisss87-lightgrey)](https://turquisss87.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-Turquisss87-blue)](https://www.linkedin.com/in/turquisss87)
 
 
 
@@ -49,5 +47,5 @@ Aqui encontraran las cosas que fui aprendiendo y los proyectos con los que traba
 
 [![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/turquisss87)
 </br>
-[![Email]()](mailto:turquisss87@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Turquisss87-blueviolet)](mailto:turquisss87@gmail.com)
 </br>
