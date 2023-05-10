@@ -49,5 +49,5 @@ Aqui encontraran las cosas que fui aprendiendo y los proyectos con los que traba
 
 [![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/turquisss87)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:turquisss87@gmail.com)
+[![Email]()](mailto:turquisss87@gmail.com)
 </br>
