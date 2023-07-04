@@ -6,6 +6,8 @@
 ![GitHub Followers](https://img.shields.io/github/stars/turquisss87?style=social)
 # Capacidades y Aptitudes 🚀
 
+# Capacidades y Aptitudes 🚀
+
 A pesar de no haber seguido una formación educativa tradicional, he adquirido valiosas capacidades por cuenta propia y estoy dispuesto a aprovechar oportunidades en el campo laboral. Mi enfoque autodidacta me ha permitido adquirir conocimientos de manera independiente y estoy preparado para enfrentar desafíos y aprender rápidamente en cualquier entorno. Poseo una mentalidad de crecimiento y la motivación necesaria para adquirir nuevas habilidades y contribuir de manera efectiva en un equipo de trabajo.
 
 ## Habilidades 💪
@@ -16,18 +18,20 @@ A pesar de no haber seguido una formación educativa tradicional, he adquirido v
 
 - **Python** 🐍: Tengo habilidades en el lenguaje de programación Python. Puedo utilizar Python para el análisis de datos, automatización de tareas, desarrollo de aplicaciones web y creación de scripts.
 
+- **SQL** 🗃️: Tengo conocimientos en el lenguaje SQL para gestionar bases de datos relacionales, realizar consultas y manipulación de datos.
+
+- **Git** 🐙: Tengo experiencia en el uso de Git, un sistema de control de versiones distribuido, para el seguimiento de cambios en proyectos de desarrollo de software y colaboración en equipos.
+
 - **Diseño web especializado en datos** 📊: Poseo conocimientos en diseño web con un enfoque especializado en visualización de datos. Puedo utilizar tecnologías como HTML, CSS y JavaScript, junto con bibliotecas como D3.js o Plotly, para crear visualizaciones interactivas y atractivas de datos.
 
 Con estas habilidades y aptitudes, estoy preparado para contribuir en proyectos relacionados con el análisis de datos, la gestión de comunidades en línea y el desarrollo de aplicaciones web. Estoy abierto a oportunidades de aprendizaje y crecimiento, y estoy entusiasmado por utilizar mis habilidades para impulsar el éxito en un entorno laboral colaborativo.
 
 ¡No dudes en contactarme! ✉️
 
-![Coding](https://example.com/coding.jpg)
 
 
-## Tecnologías actuales:
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
 
 
 ## Links:
