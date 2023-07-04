@@ -6,7 +6,6 @@
 ![GitHub Followers](https://img.shields.io/github/stars/turquisss87?style=social)
 # Capacidades y Aptitudes 🚀
 
-# Capacidades y Aptitudes 🚀
 
 A pesar de no haber seguido una formación educativa tradicional, he adquirido valiosas capacidades por cuenta propia y estoy dispuesto a aprovechar oportunidades en el campo laboral. Mi enfoque autodidacta me ha permitido adquirir conocimientos de manera independiente y estoy preparado para enfrentar desafíos y aprender rápidamente en cualquier entorno. Poseo una mentalidad de crecimiento y la motivación necesaria para adquirir nuevas habilidades y contribuir de manera efectiva en un equipo de trabajo.
 
