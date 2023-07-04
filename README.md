@@ -1,31 +1,29 @@
 # Hola, mi nombre es Sebastian Habib 👋
-### Freelance Python and Data Science
+### Freelance Python, Data Science and Product Manager
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/turquisss87?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/turquisss87?style=social)
+# Capacidades y Aptitudes 🚀
 
-¡Hola! Soy un Product Manager con experiencia en el desarrollo de productos utilizando Python. Me apasiona crear soluciones innovadoras que satisfagan las necesidades de los usuarios y maximicen el valor del producto.
+A pesar de no haber seguido una formación educativa tradicional, he adquirido valiosas capacidades por cuenta propia y estoy dispuesto a aprovechar oportunidades en el campo laboral. Mi enfoque autodidacta me ha permitido adquirir conocimientos de manera independiente y estoy preparado para enfrentar desafíos y aprender rápidamente en cualquier entorno. Poseo una mentalidad de crecimiento y la motivación necesaria para adquirir nuevas habilidades y contribuir de manera efectiva en un equipo de trabajo.
 
-Experiencia
-Desarrollo de productos: He trabajado en el diseño, desarrollo y lanzamiento de productos basados en Python. Tengo experiencia en la planificación y ejecución de todo el ciclo de vida del producto, desde la concepción de la idea hasta la entrega final.
+## Habilidades 💪
 
-Gestión de equipos: He liderado equipos multidisciplinarios de desarrolladores, diseñadores y especialistas en marketing para colaborar en el desarrollo de productos. Tengo habilidades para comunicarme de manera efectiva y gestionar proyectos de manera eficiente.
+- **Microsoft Office**: Word, Excel, Access, Visual Basic. Tengo experiencia en el uso de las herramientas de Microsoft Office para la creación de documentos, hojas de cálculo, bases de datos y automatización de tareas utilizando Visual Basic.
 
-Análisis de datos: Como Product Manager, he utilizado Python para analizar datos y extraer información valiosa para la toma de decisiones. Tengo experiencia en el uso de bibliotecas como pandas, numpy y matplotlib para realizar análisis estadísticos y visualizaciones de datos.
+- **Community Manager** 🌐: Como miembro de la Asociación Española de Profesionales de Social Media, tengo experiencia y conocimientos en la gestión de comunidades en línea, creación de contenido y estrategias de marketing digital en redes sociales.
 
-Proyecto actual: Desarrollo de un Producto Web para Análisis de Datos con Python
-En mi proyecto actual, estoy liderando el desarrollo de un producto web que permitirá a los usuarios cargar, visualizar y analizar conjuntos de datos utilizando Python. Algunas características clave del producto incluyen:
+- **Python** 🐍: Tengo habilidades en el lenguaje de programación Python. Puedo utilizar Python para el análisis de datos, automatización de tareas, desarrollo de aplicaciones web y creación de scripts.
 
-Interfaz intuitiva: Estamos creando una interfaz amigable que permita a los usuarios cargar y explorar fácilmente sus conjuntos de datos.
+- **Diseño web especializado en datos** 📊: Poseo conocimientos en diseño web con un enfoque especializado en visualización de datos. Puedo utilizar tecnologías como HTML, CSS y JavaScript, junto con bibliotecas como D3.js o Plotly, para crear visualizaciones interactivas y atractivas de datos.
 
-Análisis de datos: Estamos utilizando bibliotecas populares de Python como pandas y numpy para realizar análisis estadísticos y generar visualizaciones interactivas.
+Con estas habilidades y aptitudes, estoy preparado para contribuir en proyectos relacionados con el análisis de datos, la gestión de comunidades en línea y el desarrollo de aplicaciones web. Estoy abierto a oportunidades de aprendizaje y crecimiento, y estoy entusiasmado por utilizar mis habilidades para impulsar el éxito en un entorno laboral colaborativo.
 
-Colaboración: Estamos incorporando características que facilitarán la colaboración entre los usuarios, permitiéndoles compartir y comentar conjuntos de datos.
+¡No dudes en contactarme! ✉️
 
-Escalabilidad: Estamos diseñando el producto para que pueda manejar grandes volúmenes de datos y escalarse a medida que crezca la base de usuarios.
+![Coding](https://example.com/coding.jpg)
 
-Estoy emocionado de llevar este proyecto a la realidad y crear una herramienta poderosa para el análisis de datos con Python. Si estás interesado en colaborar o conocer más sobre este proyecto, ¡no dudes en contactarme!
 
 ## Tecnologías actuales:
 
