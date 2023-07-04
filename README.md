@@ -49,6 +49,7 @@ Con estas habilidades y aptitudes, estoy preparado para contribuir en proyectos 
 # Mis proyectos en la comunidad
 
 https://github.com/Turquisss87/Snake
+https://github.com/Turquisss87/PredictorMundiaL
 
 ## Git & GitHub
 ![https://github.com/Turquisss87/HelloGit](./descarga.png)
